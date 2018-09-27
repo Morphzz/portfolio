@@ -1,7 +1,13 @@
-.h1{
+h1{
    color:orange; 
 }
 img{
 height:300px;
 width:300px;
+}
+h2{
+    color:darkgreen;
+}
+body{
+    background: url("flowers.jpg");
 }
